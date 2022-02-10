@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Java</string>
+    <string name="back">Back</string>
+    <string name="appearance">Appearance</string>
+    <string name="color_theme_auto_night_mode">color theme - auto-night mode</string>
+    <string name="bob_harris">Bob Harris</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="it_s_morning_in_tokyo">It\'s morning in Tokyo</string>
+    <string name="do_you_know_what_time_it_is">Do you know what time it is?</string>
+    <string name="_12_20_am">12:20 AM</string>
+    <string name="chat_theme">Chat Theme</string>
+    <string name="chat_background">Chat Background</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="auto_night_mode">Auto-Night Mode</string>
+    <string name="system">System</string>
+    <string name="message_corners">Message Corners</string>
+    <string name="text_size">Text Size</string>
+</resources>
